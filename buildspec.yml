@@ -4,7 +4,7 @@ phases:
     runtime-versions:
       nodejs: 18.x
     commands:
-      - cd reactApp
+      - cd reactapp
       - npm i
       - npm install
   build:
