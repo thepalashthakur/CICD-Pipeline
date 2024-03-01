@@ -5,7 +5,6 @@ phases:
       nodejs: 18.x
     commands:
       - cd reactapp
-      - npm i
       - npm install
   build:
     commands:
