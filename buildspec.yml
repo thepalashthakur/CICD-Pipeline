@@ -12,4 +12,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'reactApp/build' # adjust if your build output is stored in a different directory
+  base-directory: 'reactapp/build' # adjust if your build output is stored in a different directory
